@@ -38,16 +38,3 @@ img {
     grid-template-columns: repeat(2, 1fr);
   }
 }
-
-/* ~~~~~~~~~~~~~~~~~~~ CSS ~~~~~~~~~~~~~~~~~~~ */
-@media (max-width: 960px) {
-  .max960 {
-    width: 100vw;
-  }
-}
-
-@media (min-width: 960px) {
-  /* .max960 {
-     display: none;
-  } */
-}
